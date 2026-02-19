@@ -1,0 +1,7 @@
+[font]
+normal.family = "JetbrainsMono Nerd Font"
+size = 12
+
+[general]
+
+import = ["~/.config/alacritty/themes/noctalia.toml"]
